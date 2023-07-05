@@ -1,5 +1,5 @@
 # tateti.github.io
-Un clasico juego Tateti hecho en JavaScipt 
+Un clasico juego Tateti hecho en JavaScript 
 
 El live del juego : https://emanueliniguez.github.io/tateti.github.io/
 
