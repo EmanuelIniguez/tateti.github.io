@@ -3,6 +3,7 @@
   text-align: center;
   opacity: 0;
   animation: fade-in 1s ease-in-out forwards;
+  overflow: hidden
 }
 
 @keyframes fade-in {
