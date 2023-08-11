@@ -1,4 +1,4 @@
-# tateti.github.io
+# Tateti
 Un clasico juego Tateti hecho en JavaScript 
 
 El live del juego : https://emanueliniguez.github.io/tateti.github.io/
